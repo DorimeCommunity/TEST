@@ -1,5 +1,1 @@
-local users = "user1, user2, user3"
-local username = client.GetPlayerInfo( Name )
-if entities.FindByClass(users, username) then
-    misc.clantag("On", true)
-end
+STEAM_0:1:643948928
